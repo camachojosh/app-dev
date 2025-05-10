@@ -2,7 +2,7 @@
 My first repository
 # My Favorite Series: **Breaking Bad**
 
-![Breaking Bad](bb.jpg)
+![Breaking Bad](https://wallpaperaccess.com/full/2924772.jpg)
 
 ## Why I Love It
 *Breaking Bad* tells the intense and emotional story of a high school chemistry teacher who turns to making meth to support his family. It’s a brilliant mix of:
