@@ -2,7 +2,7 @@
 My first repository
 # My Favorite Series: **Breaking Bad**
 
-![Breaking Bad](https://upload.wikimedia.org/wikipedia/en/6/61/Breaking_Bad_title_card.png)
+![Breaking Bad](bb.jpg)
 
 ## Why I Love It
 *Breaking Bad* tells the intense and emotional story of a high school chemistry teacher who turns to making meth to support his family. It’s a brilliant mix of:
